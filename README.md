@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ![rac_acc](https://github.com/hope-yao/Recurrent_Attention_Classifier/blob/master/assests/rac_acc.png)
-![subnets_net](https://github.com/hope-yao/BEGAN-tensorflow/blob/subnets/assets/model.png)
+![subnets_net](https://github.com/hope-yao/BEGAN-tensorflow/blob/subnets/assets/model.png|alt=octocat])
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
