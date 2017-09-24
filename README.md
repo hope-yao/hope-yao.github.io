@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](https://github.com/hope-yao/Recurrent_Attention_Classifier/blob/master/assests/rac_acc.png)
 ```
 
+![rac_acc](https://github.com/hope-yao/Recurrent_Attention_Classifier/blob/master/assests/rac_acc.png)
+![subnets_net](https://github.com/hope-yao/BEGAN-tensorflow/blob/subnets/assets/model.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
